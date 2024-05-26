@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.cal-container {
+  background-color: antiquewhite;
+  height: auto;
+  padding: 5px 15px;
+}
+.input-box {
+  text-align: left;
+}
+p {
+  font-size: 20px;
+  color: black;
+}
+button {
+  background-color: aqua;
+  color: black;
+  font-size: 19px;
+  margin-top: 20px;
+}
+.ans-box {
+  text-align: left;
+  margin-top: 10px;
+  font-size: 19px;
+}
